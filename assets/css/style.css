@@ -1,0 +1,11 @@
+.blue { color: blue; }
+
+.list { font-family: monospace; font-style: italic; margin-bottom: 25px; }
+
+.show-more { text-decoration: underline; cursor: pointer; }
+
+.hidden-list { visibility: hidden; padding-left: 25px; }
+
+.active { visibility: visible; }
+
+.footer { color: aqua; background: blue; padding: 10px; }
