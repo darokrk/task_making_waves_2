@@ -1,0 +1,31 @@
+$blueColor: blue;
+
+.blue {
+  color: $blueColor;
+}
+
+.list {
+  font-family: monospace;
+  font-style: italic;
+  margin-bottom: 25px;
+}
+
+.show-more {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.hidden-list {
+  visibility: hidden;
+  padding-left: 25px;
+}
+
+.active {
+  visibility: visible;
+}
+
+.footer {
+  color: aqua;
+  background: $blueColor;
+  padding: 10px;
+}
